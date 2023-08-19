@@ -10,7 +10,7 @@ public class ServiceToBeMocked {
 
 	public int multiplyByTwo(int inputNum)
 	{
-		return inputNum * 2;
+		return inputNum * 4;
 	}
 	
 }
